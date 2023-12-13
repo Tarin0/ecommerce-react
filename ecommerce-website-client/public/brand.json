@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "Apple",
+    "image": "https://i.ibb.co/34V8FHz/apple-logo.jpg"
+
+  },
+  {
+    "id": 2,
+    "name": "Adidas",
+    "image": "https://i.ibb.co/f03N1NZ/adidas-logo.webp"
+  },
+  {
+    "id": 3,
+    "name": "Gucci",
+    "image": "https://i.ibb.co/wdcPhZg/gucci-logo.webp"
+  },
+  {
+    "id": 4,
+    "name": "Loreal",
+    "image": "https://i.ibb.co/1qffmd5/loreal-logo.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Dell",
+    "image": "https://i.ibb.co/Nyf5KFX/dell-logo.webp"
+  },
+  {
+    "id": 6,
+    "name": "Nike",
+    "image": "https://i.ibb.co/3v2FL9f/nike-logo.jpg"
+  }
+]
